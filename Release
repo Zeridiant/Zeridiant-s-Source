@@ -1,0 +1,8 @@
+Origin: AltStore Beta
+Label: AltStore Beta
+Suite: beta
+Version: 1.4.5b
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: AltStore is an alternative app store for non-jailbroken devices. This fork is created to allow AltStore to not have be signed
