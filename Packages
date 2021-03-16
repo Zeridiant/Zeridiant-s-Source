@@ -1,0 +1,10 @@
+Package: com.rileytestus.AltStore.Beta
+Name: AltStore Beta
+Version: 1.4.5b
+Description: AltStore is an alternative app store for non-jailbroken devices. This fork is created to allow AltStore to not have be signed
+Maintainer: Zeridiant
+Author: Riley Testut
+Section: Tweaks
+Filename: ./debs/com.rileytestut.AltStore.Beta_1.4.5b_iphoneos-arm.deb
+Size: 630
+MD5sum: 5ef5ae8d572ac0090a47448e6c4d92e3
